@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import ProjectCard from './ProjectCard'
+import ProjectCard from './Projectcard'
 import project1 from '../assets/project1.avif'
 import project2 from '../assets/project2.avif'
 import project4 from '../assets/project4.avif'
